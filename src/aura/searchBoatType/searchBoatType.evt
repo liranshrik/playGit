@@ -1,0 +1,7 @@
+<!--
+ - Created by lshriki on 18/03/2018.
+ -->
+
+<aura:event type="COMPONENT" description="searchBoatType">
+    <aura:attribute name="typeId" type="Object"/>
+</aura:event>
