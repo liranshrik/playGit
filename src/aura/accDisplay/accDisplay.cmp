@@ -10,6 +10,10 @@
 
     //adding new feature
 
+    //adding new feature 2
+
+
+
         <force:recordData aura:id="recordEditor"
                           layoutType="FULL"
                           recordId="{!v.recordId}"
