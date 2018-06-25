@@ -8,12 +8,6 @@
         <aura:attribute name="accountRecord" type="Object" />
         <aura:attribute name="recordError" type="String" />
 
-    //adding new feature
-
-    //adding new feature 2
-
-
-
         <force:recordData aura:id="recordEditor"
                           layoutType="FULL"
                           recordId="{!v.recordId}"
