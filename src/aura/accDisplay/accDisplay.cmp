@@ -16,9 +16,15 @@
                           targetFields="{!v.accountRecord}"
                           mode="EDIT" />
 
+
     //add 1
 
+    //add 22
+
+    //add 3
+    
     //add 4
+
 
         <!-- Display a lightning card with details about the record -->
         <div class="Record Details">
